@@ -1,2 +1,5 @@
 git練習
 tuika
+.git add
+.git commit
+
