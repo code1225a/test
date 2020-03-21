@@ -8,6 +8,7 @@ tuika
 .git merge
 .git confrict
 .git commit --amend
+.git pull reauest
 
 
 
