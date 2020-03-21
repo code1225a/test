@@ -6,5 +6,9 @@ tuika
 .git status
 .git diff
 .git merge
+.git confrict
+.git commit --amend
+.git pull reauest
+
 
 
